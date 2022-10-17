@@ -2,16 +2,16 @@
 key: tugdual_grall
 name: Tugdual Grall
 feature: false
-company: Redis Labs
-companyLogo: /images/partners/redis_labs.png
+company: GitHub
+companyLogo: /images/partners/github.png
 city: Nantes, France
 photoUrl: https://lh3.googleusercontent.com/a-/AAuE7mD3Lb5ovBNEnOvyIRJBtlwyYbMGSEBtHwfV7FYgqg
 socials:
   twitter: tgrall
   github: tgrall
 bio: |-
-  Tugdual Grall, est Technical Account Manager chez Redis Lavs ou il accompagne les clients dans le déploiement de Redis, et participate a l'adoption de Redis et du NoSQL dans les communautés de développeurs.
+  Tugdual "Tug" est Solutions Engineer chez GitHub où il aide les développeurs à utiliser au mieux GitHub sur leur projets (Collaboration, DevOps, DevSecOps)
 
-  Avant de travailler chez Redis Labs, "Tug", était Directeur du Product Management chez Red Hat, Technical Evangelist chez MapR, MongoDB et Couchbase. Tug a également travaillé comme CTO chez eXo Platform, et comme Product Manager et Développeur sur la platform JavaEE d'Oracle.
+  Auparavant, Tug a travaillé chez Redis, Red Hat, MapR, MongoDB, Couchbase, eXo et Oracle comme dévelopeur, product manager ou developer advocate.
 
-  Tugdual est également co-fondateur du Nantes JUG (Java Users Group) qui réunit tous les mois depuis 2008 les développeurs et architectes de la région nantaise.
+  Tugdual est également co-fondateur du Nantes JUG (Java Users Group) qui réunit tous les mois depuis 2008 les développeurs et architectes de la région nantaise
